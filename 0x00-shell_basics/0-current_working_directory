@@ -1,0 +1,5 @@
+echo 'my first shell project' > README.md
+echo 'shell basics' > README.md
+chmod u+x 0-current_working_directory
+echo '#!/bin/bash' > 0-current_working_directory
+echo 'pwd' >> 0-current_working_directory
