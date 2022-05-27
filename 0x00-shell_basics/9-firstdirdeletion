@@ -1,0 +1,5 @@
+ #!bin/bash > 9-firstdirdeletion
+ ls
+ /tmp/my_first_directory
+ rm -rf my_first_directory
+ ls
