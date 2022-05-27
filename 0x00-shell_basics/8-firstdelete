@@ -1,0 +1,6 @@
+#!bin/bash > 8-firstdelete
+ls /tmp/my_first_directory
+cd tmp
+cd my_first_directory
+ls
+rm betty
