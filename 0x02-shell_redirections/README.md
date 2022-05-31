@@ -1,1 +1,1 @@
-5lines
+head -n
