@@ -1,0 +1,3 @@
+#!/bin/bash
+echo "$ for f in iacta/*; do cp -vf --backup=numbered "$f" "$f"; done"
+
