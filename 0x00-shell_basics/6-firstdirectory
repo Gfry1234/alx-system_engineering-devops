@@ -1,0 +1,3 @@
+#!/bin/bash
+IFS=/
+mkdir -p "$*" my_first_directory > tmp
