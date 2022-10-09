@@ -1,0 +1,2 @@
+ls -a file1 file2 dir1 dir2
+#!/bin/bash

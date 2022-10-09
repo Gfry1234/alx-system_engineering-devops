@@ -1,2 +1,2 @@
 #!/bin/bash
-if 'pwd'=/tmp/var then cd .. and 'pwd' fi
+for 'pwd path'=/tmp/var; if 'wd'=var then  cd .. and pwd fi
