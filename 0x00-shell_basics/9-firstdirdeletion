@@ -1,0 +1,2 @@
+#!/bin/bash
+pushd "/tmp/my_first_directory" && (rd /s /q "%pathtofolder%" 2>nul & popd)
